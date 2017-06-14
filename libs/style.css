@@ -1,0 +1,40 @@
+body{
+    background: url("../Medium.jpg")no-repeat center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.container{
+    background: url("../jositphotos.png") no-repeat center 20px;
+    padding-top:75px;
+    height: 730px;
+}
+img{
+    width: 100%;
+}
+.panel-heading{
+    background: #DB7093;
+}
+.panel{
+    border-color: 	#DB7093;
+}
+.panel-footer{
+    background: #D3D3D3;
+}
+.btn-primary{
+    background: #333;
+    border-color: #333;
+}
+.btn-primary:hover{
+    background: #696969;
+}
+
+.row{
+    overflow: auto;
+    height: 432px;
+    width: 51%;
+    margin: 0 auto;
+}
+
+@media screen  {
+    
+}
